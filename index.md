@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## A bit about myslef
 
+An aspiring Systems Design Engineer undergraduate from University of Waterloo
 You can use the [editor on GitHub](https://github.com/ahad55/ahad55-github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
