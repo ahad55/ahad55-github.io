@@ -1,3 +1,6 @@
+body{
+background-color: #000000;
+}
 ## A bit about myslef
 
 An aspiring Systems Design Engineer undergraduate from University of Waterloo
